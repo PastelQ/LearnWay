@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2204c2cc-5a0b-4b6c-970d-624d8c2b01f8" alt="mainLogo"/>
 </p>
-  
+<br>
+
 # Spring Boot 프로젝트
 **LearnWay** : 청소년 대상 스케줄 및 성취도 관리 LMS
 
